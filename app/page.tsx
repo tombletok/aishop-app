@@ -15,7 +15,7 @@ export default function Home() {
           <div className="flex flex-col items-center text-center">
             <Logo size="lg" className="mb-6" />
             <h1 className="text-4xl md:text-6xl font-bold mb-6">
-              TomBot AI Solutionsss
+              TomBot AI Solutions5
             </h1>
             <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-2xl">
               Empowering Small Businesses with Smart AI Solutions
